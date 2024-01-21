@@ -21,21 +21,21 @@
         <dependency>
             <groupId>org.apache.jmeter</groupId>
             <artifactId>ApacheJMeter_core</artifactId>
-            <version>4.0</version>
+            <version>5.2</version>
             <scope>system</scope>
             <systemPath>${basedir}/lib/ApacheJMeter_core.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>org.apache.jmeter</groupId>
             <artifactId>ApacheJMeter_java</artifactId>
-            <version>4.0</version>
+            <version>5.2</version>
             <scope>system</scope>
             <systemPath>${basedir}/lib/ApacheJMeter_java.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>org.apache.jmeter</groupId>
             <artifactId>jorphan</artifactId>
-            <version>4.0</version>
+            <version>5.2</version>
             <scope>system</scope>
             <systemPath>${basedir}/lib/jorphan.jar</systemPath>
         </dependency>
